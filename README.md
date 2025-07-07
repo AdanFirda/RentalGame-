@@ -1,2 +1,0 @@
-# RentalGame-
-Rental game mobile 
